@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What was the main aim of the French revolutionaries regarding the concept of the nation?",
+    "ground_truth_answer": "The main aim was to create a sense of collective identity among the French people, instill a sense of common belonging, and transfer sovereignty from the monarchy to a body of French citizens through ideas like la patrie (the fatherland) and le citoyen (the citizen)."
+  },
+  {
+    "question": "What was the Zollverein, and how did it strengthen nationalist feelings in Germany?",
+    "ground_truth_answer": "The Zollverein was a customs union formed in 1834 at the initiative of Prussia. It abolished tariff barriers, reduced the number of currencies from over thirty to two, and stimulated mobility and economic unity, thereby weaving nationalist feelings together through a strengthened economic web."
+  },
+  {
+    "question": "What was the primary objective of the Treaty of Vienna of 1815?",
+    "ground_truth_answer": "The primary objective was to undo most of the changes that had come about in Europe during the Napoleonic wars, restore the monarchies that had been overthrown by Napoleon, and create a new conservative order in Europe."
+  },
+  {
+    "question": "Who was Giuseppe Mazzini, and what secret societies did he found?",
+    "ground_truth_answer": "Giuseppe Mazzini was an Italian revolutionary born in Genoa in 1807 who believed that nations were the natural units of mankind. He founded two underground secret societies: Young Italy in Marseilles and Young Europe in Berne."
+  },
+  {
+    "question": "What role did Otto von Bismarck play in the unification of Germany?",
+    "ground_truth_answer": "Otto von Bismarck was the chief minister of Prussia who engineered the unification of Germany. He led the Prussian army and bureaucracy through three wars over seven years against Austria, Denmark, and France, resulting in Prussian victory and completion of German unification."
+  },
+  {
+    "question": "How was the unification of Italy achieved, and who were the key figures involved?",
+    "ground_truth_answer": "Italy was unified through a combination of diplomatic alliances, war, and popular uprisings. The key figures were Giuseppe Mazzini (who inspired the movement), Count Cavour (the chief minister who engineered the strategic alliance with France), Giuseppe Garibaldi (who led the armed volunteers in the south), and King Victor Emmanuel II."
+  },
+  {
+    "question": "Why was the Balkan region a source of explosive tension in Europe after 1871?",
+    "ground_truth_answer": "The Balkan region was geographically and ethnically diverse, and its inhabitants were broadly known as Slavs. As the Ottoman Empire disintegrated and nationalist tensions flared, the region became an arena of intense rivalry among European powers over trade, colonies, and military control, ultimately leading to the First World War."
+  },
+  {
+    "question": "What was the significance of the Frankfurt Parliament convened in 1848?",
+    "ground_truth_answer": "It was an all-German National Assembly convened in the Church of St. Paul where 831 elected representatives drafted a constitution for a German nation headed by a monarchy subject to a parliament. However, it failed because the king of Prussia rejected it and it lost social backing due to its refusal to support workers' demands."
+  },
+  {
+    "question": "How did visual allegories like 'Marianne' and 'Germania' help represent the nation in 19th-century Europe?",
+    "ground_truth_answer": "Artists used female allegories to personify abstract ideas of the nation in concrete form. Marianne represented the French nation with ideas of liberty and republic, while Germania stood for the German nation wearing a crown of oak leaves (symbolizing heroism), serving as a popular symbol to instill national identity."
+  },
+  {
+    "question": "How did the First World War help in the growth of the nationalist movement in India?",
+    "ground_truth_answer": "The First World War created a new economic and political situation. It led to a huge increase in defence expenditure financed by war loans and taxes, custom duties were raised, and income tax was introduced. Forced recruitment in rural areas, coupled with extreme economic hardships, crop failures of 1918-19, and influenza epidemic, caused widespread anger and suffering among people, uniting them against colonial rule."
+  },
+  {
+    "question": "What was the Rowlatt Act of 1919, and why was it fiercely opposed by Indians?",
+    "ground_truth_answer": "The Rowlatt Act was hastily passed by the Imperial Legislative Council despite united opposition from Indian members. It gave the government enormous powers to repress political activities and allowed the detention of political prisoners without trial for two years. Indians opposed it because it was an unjust law curbing fundamental civil liberties and personal freedom."
+  }
+]

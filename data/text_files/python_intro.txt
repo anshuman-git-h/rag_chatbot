@@ -1,0 +1,13 @@
+
+Python is a high-level, general-purpose programming language known for its clear syntax and readability. 
+It supports multiple programming paradigms, including object-oriented, imperative, and functional programming.
+Key CharacteristicsReadable: Code resembles plain English.
+Interpreted: Executes line by line directly.
+Dynamic: Variable types are declared automatically.
+Portable: Runs on Windows, Mac, Linux.Core EcosystemStandard Library: Built-in tools for file I/O.
+Package Index: Over 500,000 third-party packages (PyPI).
+Package Manager: Standard tool for installation (pip).
+Major Use CasesData Science: Data analysis and manipulation (Pandas).
+Machine Learning: Building neural networks (TensorFlow).
+Web Development: Backend framework creation (Django).
+Automation: Writing scripts for repetitive tasks.

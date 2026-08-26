@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What are the dual objectives of a federal system?",
+    "ground_truth_answer": "The dual objectives are to safeguard and promote the unity of the country while at the same time accommodating regional diversity."
+  },
+  {
+    "question": "Which level of government has the power to legislate on subjects included in the Residuary List in India?",
+    "ground_truth_answer": "The Union (Central) Government has the power to legislate on subjects that do not fall in any of the three lists, known as residuary subjects."
+  },
+  {
+    "question": "What was the main decision taken at the Lahore Congress session of December 1929?",
+    "ground_truth_answer": "Under the presidency of Jawaharlal Nehru, the Lahore Congress formalized the demand of 'Purna Swaraj' (Full Independence) for India and declared that 26 January 1930 would be celebrated as Independence Day when people were to take a pledge to struggle for complete independence."
+  },
+  {
+    "question": "Why did Mahatma Gandhi choose salt as the medium for launching the Civil Disobedience Movement?",
+    "ground_truth_answer": "Gandhi chose salt because it was consumed by the rich and the poor alike, and was one of the most essential items of food. The tax on salt and the government monopoly over its production revealed the most oppressive face of British rule, making it an effective symbol to unite the entire nation against the colonial government."
+  },
+  {
+    "question": "How did the different social groups perceive the idea of Swaraj during the Civil Disobedience Movement?",
+    "ground_truth_answer": "Different social groups had distinct aspirations: Rich peasant communities (like Patidars and Jats) wanted reduction in revenue demands; poor peasants wanted unpaid rent remitted; business classes wanted protection against import of foreign goods and a favorable rupee-foreign exchange ratio; industrial working classes wanted better wages and working conditions; and women participated widely seeking a greater national role."
+  }
+]

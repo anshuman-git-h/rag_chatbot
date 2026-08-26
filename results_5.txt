@@ -1,0 +1,15 @@
+BASELINE (Recursive + Normal Query)
+{
+  "faithfulness": 0.6371428571428571,
+  "answer_relevancy": 0.9496624985936631,
+  "context_precision": 0.59999999995,
+  "context_recall": 0.6
+}
+
+SEMANTIC + HyDE
+{
+  "faithfulness": 0.8761904761904762,
+  "answer_relevancy": 0.9605329373433717,
+  "context_precision": 0.6399999999633333,
+  "context_recall": 0.7
+}

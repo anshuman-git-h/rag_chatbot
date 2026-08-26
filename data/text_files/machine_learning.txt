@@ -1,0 +1,16 @@
+
+Machine learning is a branch of Artificial Intelligence that focuses on developing models and algorithms that let computers learn from data without being explicitly programmed for every task. In simple words, ML teaches systems to think and understand like humans by learning from the data.
+
+introduction_to_machine_learning.webpintroduction_to_machine_learning.webp
+
+Machine Learning is mainly divided into three core types:
+
+Supervised Learning: Trains models on labeled data to predict or classify new, unseen data.
+Unsupervised Learning: Finds patterns or groups in unlabeled data, like clustering or dimensionality reduction.
+Reinforcement Learning: Learns through trial and error to maximize rewards, ideal for decision-making tasks.
+Note: The following are not part of the original three core types of ML, but they have become increasingly important in real-world applications, especially in deep learning.
+
+Additional Types:
+
+Self-Supervised Learning: It is often considered as a  subset of unsupervised learning, but it has grown into its own field due to its success in training large-scale models. It generates its own labels from the data, without any manual labeling. 
+Semi-Supervised Learning: This approach combines a small amount of labeled data with a large amount of unlabeled data. It’s useful when labeling data is expensive or time-consuming.
